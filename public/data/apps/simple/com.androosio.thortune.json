@@ -1,0 +1,16 @@
+{
+  "config": {
+    "id": "com.androosio.thortune",
+    "url": "https://github.com/androosio/thortune",
+    "author": "androosio",
+    "name": "ThorTune"
+  },
+  "icon": "https://github.com/androosio/thortune/raw/main/docs/icon.png",
+  "categories": [
+    "utilities",
+    "system"
+  ],
+  "description": {
+    "en": "System tweaks for the AYN Thor handheld: JamesDSP system-wide audio DSP and display saturation control, with a lower-screen companion panel."
+  }
+}
